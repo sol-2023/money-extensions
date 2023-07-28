@@ -15,12 +15,12 @@
     <RepositoryUrl>https://github.com/sol-2023/money-extensions</RepositoryUrl>
     <PackageProjectUrl>https://github.com/sol-2023/money-extensions</PackageProjectUrl>
     <PackageLicenceExpression>MIT</PackageLicenceExpression>
-    <PackageIcon>icon.png</PackageIcon>
+    <PackageIcon>icon2.png</PackageIcon>
     <PackageTags>money;int;decimal;converter</PackageTags>
     <Title>MoneyExtensions</Title>
     <Summary>Extension to convert decimal to integer</Summary>
   </PropertyGroup>
     <ItemGroup>
-      <None Include="..\Media\icon.png" Pack="true" PackagePath="\"/>
+      <None Include="..\Media\icon2.png" Pack="true" PackagePath="\"/>
     </ItemGroup>
 </Project>
