@@ -1,3 +1,5 @@
+global using Microsoft.VisualStudio.TestTools.UnitTesting;
+
 namespace MoneyExtension.Tests;
 
 [TestClass]
@@ -10,6 +12,5 @@ public class MoneyExtensionTests
         var cents = valor.ToCents();
 
         Assert.AreEqual(27998, cents);
-       
     }
 }
